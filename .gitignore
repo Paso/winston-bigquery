@@ -26,7 +26,6 @@ build/
 # Optional eslint cache
 .eslintcache
 
-/dist/
 !/output/.gitkeep
 /output/*
 /data/*.csv
